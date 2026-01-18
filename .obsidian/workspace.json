@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件.md",
+                "file": "HCIP/防火墙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试文件"
+              "title": "防火墙"
             }
           }
         ]
@@ -104,16 +104,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bde941e228f7ad8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "b3230d41695ccdd0",
             "type": "leaf",
             "state": {
@@ -160,8 +150,19 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "9a6f50686169b6d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,10 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bde941e228f7ad8",
+  "active": "075906ab0608c2ba",
   "lastOpenFiles": [
-    "HCIP/防火墙.md",
     "测试文件.md",
+    "HCIP/防火墙.md",
     "HCIA/HCIA综合实验.md",
     "HCIA.zip",
     "HCIA/12-广域网技术-PPP.md",
