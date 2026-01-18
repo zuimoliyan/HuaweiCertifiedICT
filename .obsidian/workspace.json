@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCIP/防火墙.md",
+                "file": "测试文件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "防火墙"
+              "title": "测试文件"
             }
           }
         ]
@@ -182,8 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e555ee9434e6ea2",
+  "active": "7bde941e228f7ad8",
   "lastOpenFiles": [
+    "HCIP/防火墙.md",
+    "测试文件.md",
     "HCIA/HCIA综合实验.md",
     "HCIA.zip",
     "HCIA/12-广域网技术-PPP.md",
@@ -208,7 +210,6 @@
     "HCIA/2-VLAN概述.md",
     "HCIA/1-OSI 七层.md",
     "HCIA/0-目录-网络.md",
-    "HCIP/防火墙.md",
     "HCIP/DICM/Pasted image 20260118170912.png",
     "HCIP/5.1-OSPF.md",
     "HCIP/HCIP.zip",
