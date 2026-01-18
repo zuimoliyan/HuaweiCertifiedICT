@@ -1,0 +1,18 @@
+{
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "newFileLocation": "root",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./DICM",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "relative",
+  "trashOption": "local"
+}

@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "36c60adc7a4f6928",
+    "type": "split",
+    "children": [
+      {
+        "id": "c015cde329f461f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e555ee9434e6ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCIA/HCIA综合实验.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HCIA综合实验"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9407486c01030c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ec1ebef71a3791b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075906ab0608c2ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "46814b94441b8225",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a2e534fb6c8d003a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "2db5b6533b808dc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HCIP/防火墙.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "防火墙 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "1ade6f181cf63c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "07c3a55313009cf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b490deb42562c0de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HCIP/3-RSTP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "3-RSTP 的反向链接列表"
+            }
+          },
+          {
+            "id": "14876c52709e61a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STL容器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "STL容器 的出链列表"
+            }
+          },
+          {
+            "id": "2660664d5e759bd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bfbd0a6d467c35a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "075906ab0608c2ba",
+  "lastOpenFiles": [
+    "HCIA.zip",
+    "HCIA/12-广域网技术-PPP.md",
+    "HCIA/11-IPv6的概述.md",
+    "HCIA/10.7-其他网络层协议.md",
+    "HCIA/10.6-网络层协议-AAA.md",
+    "HCIA/10.5-网络层协议-DNS.md",
+    "HCIA/10.4-网络层协议-Telnet协议.md",
+    "HCIA/10.3-网络层协议-TFTP.md",
+    "HCIA/10.2-网络层协议-FTP（重点）.md",
+    "HCIA/10.1-网络层协议-DHCP（重点）.md",
+    "HCIA/9-NAT（网络地址转换）.md",
+    "HCIA/8-ACL.md",
+    "HCIA/7.1.2-链路状态数据库.md",
+    "HCIA/7.1.1-动态路由协议-OSPF.md",
+    "HCIA/7-路由协议.md",
+    "HCIA/6-IPv4报文格式及种类.md",
+    "HCIA/5-链路聚合.md",
+    "HCIA/4-VLAN间的通信.md",
+    "HCIA/3-生成树STP.md",
+    "HCIA/2.1-VLAN通信.md",
+    "HCIA/2-VLAN概述.md",
+    "HCIA/1-OSI 七层.md",
+    "HCIA/0-目录-网络.md",
+    "HCIP/防火墙.md",
+    "HCIP/DICM/Pasted image 20260118170912.png",
+    "HCIA/HCIA综合实验.md",
+    "HCIP/5.1-OSPF.md",
+    "HCIP/HCIP.zip",
+    "HCIA/DICM/Pasted image 20260118164058.png",
+    "HCIA/DICM/Pasted image 20260118164051.png",
+    "HCIA/DICM/Pasted image 20260118164037.png",
+    "HCIA/DICM/Pasted image 20260118164029.png",
+    "HCIA/DICM/Pasted image 20260118164026.png",
+    "HCIA/DICM/Pasted image 20260118164021.png",
+    "HCIA/DICM/Pasted image 20260118164013.png",
+    "HCIA/DICM/Pasted image 20260118164008.png",
+    "HCIA/DICM/Pasted image 20260118164004.png",
+    "DICM",
+    "网络.zip",
+    "HCIA/DICM",
+    "HCIP/DICM",
+    "HCIP",
+    "HCIA",
+    "网络层协议",
+    "media-28c70aa3366bbcdd/input.tex",
+    "media-28c70aa3366bbcdd"
+  ]
+}
