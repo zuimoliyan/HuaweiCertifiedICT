@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCIA/HCIA综合实验.md",
+                "file": "HCIP/防火墙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HCIA综合实验"
+              "title": "防火墙"
             }
           }
         ]
@@ -100,16 +100,26 @@
     "type": "split",
     "children": [
       {
-        "id": "07c3a55313009cf0",
+        "id": "68b7fe9391bae957",
         "type": "tabs",
         "children": [
           {
-            "id": "b490deb42562c0de",
+            "id": "7bde941e228f7ad8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "b3230d41695ccdd0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCIP/3-RSTP.md",
+                "file": "HCIP/防火墙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,48 +129,39 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3-RSTP 的反向链接列表"
+              "title": "防火墙 的反向链接列表"
             }
           },
           {
-            "id": "14876c52709e61a5",
+            "id": "60aa51f057cfffdc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STL容器.md",
+                "file": "HCIP/防火墙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "STL容器 的出链列表"
+              "title": "防火墙 的出链列表"
             }
           },
           {
-            "id": "2660664d5e759bd0",
+            "id": "e9ba7758834030b5",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "bfbd0a6d467c35a7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "075906ab0608c2ba",
+  "active": "0e555ee9434e6ea2",
   "lastOpenFiles": [
+    "HCIA/HCIA综合实验.md",
     "HCIA.zip",
     "HCIA/12-广域网技术-PPP.md",
     "HCIA/11-IPv6的概述.md",
@@ -208,7 +210,6 @@
     "HCIA/0-目录-网络.md",
     "HCIP/防火墙.md",
     "HCIP/DICM/Pasted image 20260118170912.png",
-    "HCIA/HCIA综合实验.md",
     "HCIP/5.1-OSPF.md",
     "HCIP/HCIP.zip",
     "HCIA/DICM/Pasted image 20260118164058.png",
@@ -227,7 +228,6 @@
     "HCIP",
     "HCIA",
     "网络层协议",
-    "media-28c70aa3366bbcdd/input.tex",
-    "media-28c70aa3366bbcdd"
+    "media-28c70aa3366bbcdd/input.tex"
   ]
 }
