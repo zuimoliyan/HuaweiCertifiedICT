@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "075906ab0608c2ba",
+  "active": "0e555ee9434e6ea2",
   "lastOpenFiles": [
     "测试文件.md",
     "HCIP/防火墙.md",
