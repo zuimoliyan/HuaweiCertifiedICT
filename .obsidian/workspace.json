@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c015cde329f461f7",
+        "id": "b74b0725de3769d7",
         "type": "tabs",
         "children": [
           {
-            "id": "0e555ee9434e6ea2",
+            "id": "419d882c40c3a138",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,11 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e555ee9434e6ea2",
+  "active": "419d882c40c3a138",
   "lastOpenFiles": [
+    "HCIP/8-BGP.md",
+    "HCIP/防火墙.md",
     "HCIP/DICM/Pasted image 20260120142618.png",
     "测试文件.md",
-    "HCIP/防火墙.md",
     "HCIA/HCIA综合实验.md",
     "HCIA.zip",
     "HCIA/12-广域网技术-PPP.md",
@@ -224,7 +225,6 @@
     "HCIA/DICM/Pasted image 20260118164021.png",
     "HCIA/DICM/Pasted image 20260118164013.png",
     "HCIA/DICM/Pasted image 20260118164008.png",
-    "HCIA/DICM/Pasted image 20260118164004.png",
     "DICM",
     "网络.zip",
     "HCIA/DICM",
