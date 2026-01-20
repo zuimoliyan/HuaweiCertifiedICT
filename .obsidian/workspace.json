@@ -89,7 +89,8 @@
               "title": "防火墙 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,6 +187,7 @@
   },
   "active": "0e555ee9434e6ea2",
   "lastOpenFiles": [
+    "HCIP/DICM/Pasted image 20260120142618.png",
     "测试文件.md",
     "HCIP/防火墙.md",
     "HCIA/HCIA综合实验.md",
@@ -213,7 +215,6 @@
     "HCIA/1-OSI 七层.md",
     "HCIA/0-目录-网络.md",
     "HCIP/DICM/Pasted image 20260118170912.png",
-    "HCIP/5.1-OSPF.md",
     "HCIP/HCIP.zip",
     "HCIA/DICM/Pasted image 20260118164058.png",
     "HCIA/DICM/Pasted image 20260118164051.png",
