@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "防火墙"
             }
+          },
+          {
+            "id": "8c272954e56ce595",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,13 +93,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCIP/防火墙.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "防火墙 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -185,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "419d882c40c3a138",
+  "active": "8c272954e56ce595",
   "lastOpenFiles": [
     "HCIP/DICM/Pasted image 20260121183114.png",
     "HCIP/DICM/Pasted image 20260121182345.png",
