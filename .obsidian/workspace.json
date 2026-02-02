@@ -89,8 +89,7 @@
               "title": "防火墙 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "419d882c40c3a138",
+  "active": "075906ab0608c2ba",
   "lastOpenFiles": [
+    "HCIP/HCIP.zip",
+    "HCIP/DICM/Pasted image 20260201193459.png",
     "HCIP/DICM/Pasted image 20260201193147.png",
     "HCIP/DICM/Pasted image 20260201192905.png",
     "HCIP/DICM/Pasted image 20260201180836.png",
@@ -196,8 +197,6 @@
     "HCIP/DICM/Pasted image 20260120181250.png",
     "HCIP/DICM/Pasted image 20260120181147.png",
     "HCIP/DICM/Pasted image 20260120180957.png",
-    "HCIP/DICM/Pasted image 20260120180257.png",
-    "HCIP/DICM/Pasted image 20260120175815.png",
     "HCIP/8-BGP.md",
     "HCIP/防火墙.md",
     "测试文件.md",
@@ -224,7 +223,6 @@
     "HCIA/2.1-VLAN通信.md",
     "HCIA/2-VLAN概述.md",
     "HCIA/1-OSI 七层.md",
-    "HCIP/HCIP.zip",
     "DICM",
     "网络.zip",
     "HCIA/DICM",
