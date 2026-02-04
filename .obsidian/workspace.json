@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCIP/防火墙.md",
+                "file": "HCIP/4-MSTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "防火墙"
+              "title": "4-MSTP"
             }
           }
         ]
@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "075906ab0608c2ba",
+  "active": "419d882c40c3a138",
   "lastOpenFiles": [
+    "HCIP/防火墙.md",
     "HCIP/HCIP.zip",
     "HCIP/DICM/Pasted image 20260201193459.png",
     "HCIP/DICM/Pasted image 20260201193147.png",
@@ -198,7 +199,6 @@
     "HCIP/DICM/Pasted image 20260120181147.png",
     "HCIP/DICM/Pasted image 20260120180957.png",
     "HCIP/8-BGP.md",
-    "HCIP/防火墙.md",
     "测试文件.md",
     "HCIA/HCIA综合实验.md",
     "HCIA.zip",
