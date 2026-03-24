@@ -49,6 +49,10 @@
 8.     杂项: NAT Server 改cost避免等价，静默接口，QoS
 
 ## 具体实现过程
+空配开始之前：
+1. 对于 SW1 已经创建了vlan 10 20 30 111（将SW1的GE_0/4设置为VLAN111的access口），SW2已经创建了VLAN 10 20 30 122（将SW2的GE_0/4设置为VLAN122的access口）；
+2. 并且配置好所有需要的 IP 地址
+
 
 首先将 SW3与 SW2和 SW1相连的两个端口分别配置 trunk，并且放行相关 VLAN（即：VLAN10和 VLAN20）
 ```
@@ -62,6 +66,19 @@
 
 对于 SW1和 SW2：
 1. 与 SW3相连的端口同样配置为 trunk 口，并放行 `VLAN10、VLAN20`
-2. SW1与 SW2相连的 `g0/1和g0/2` 需要配置链路聚合
+2. SW1与 SW2相连的 `g0/1和g0/2` 需要配置链路聚合，并配置为 trunk 口后放行 `vlan10、20、30`
+```
+[SW1]int Bridge-Aggregation 1
+[SW1]int range g1/0/1 g1/0/2
+[SW1-if-range]port link-aggregation group 1
+[SW1]int Bridge-Aggregation 1
+[SW1-Bridge-Aggregation1]port link-type trunk
+[SW1-Bridge-Aggregation1]port trunk permit vlan 10 20 30
+[SW1]int g1/0/3
+[SW1-GigabitEthernet1/0/3]port link-type trunk
+[SW1-GigabitEthernet1/0/3]port trunk permit vlan 10 20
+```
 
+可以在 SW1和 SW2查效果：`display port trunk`
+	![[DICM/Pasted image 20260324194436.png]]
 
