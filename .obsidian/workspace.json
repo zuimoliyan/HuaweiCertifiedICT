@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "8-BGP"
             }
+          },
+          {
+            "id": "93afe57c0c4e8b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "相关实验/华三Lab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "华三Lab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "075906ab0608c2ba",
+  "active": "93afe57c0c4e8b35",
   "lastOpenFiles": [
+    "相关实验/DICM/Pasted image 20260324193153.png",
+    "相关实验/DICM",
+    "HCIP/8-BGP.md",
+    "相关实验/华三Lab.md",
+    "相关实验",
     "HCIP/HCIP.zip",
     "HCIP/4-MSTP.md",
     "HCIP/防火墙.md",
@@ -199,7 +219,6 @@
     "HCIP/DICM/Pasted image 20260120181250.png",
     "HCIP/DICM/Pasted image 20260120181147.png",
     "HCIP/DICM/Pasted image 20260120180957.png",
-    "HCIP/8-BGP.md",
     "测试文件.md",
     "HCIA/HCIA综合实验.md",
     "HCIA.zip",
@@ -222,14 +241,11 @@
     "HCIA/4-VLAN间的通信.md",
     "HCIA/3-生成树STP.md",
     "HCIA/2.1-VLAN通信.md",
-    "HCIA/2-VLAN概述.md",
     "DICM",
     "网络.zip",
     "HCIA/DICM",
     "HCIP/DICM",
     "HCIP",
-    "HCIA",
-    "网络层协议",
-    "media-28c70aa3366bbcdd/input.tex"
+    "HCIA"
   ]
 }
