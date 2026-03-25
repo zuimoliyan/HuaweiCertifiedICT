@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "华三Lab"
             }
+          },
+          {
+            "id": "26f56688855b1a1f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93afe57c0c4e8b35",
+  "active": "26f56688855b1a1f",
   "lastOpenFiles": [
     "相关实验/DICM/Pasted image 20260324205830.png",
     "相关实验/DICM/Pasted image 20260324205802.png",
