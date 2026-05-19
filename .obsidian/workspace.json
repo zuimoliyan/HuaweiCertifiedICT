@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "相关实验/华三Lab.md",
+                "file": "HCIA/1-OSI 七层.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "华三Lab"
+              "title": "1-OSI 七层"
             }
           }
         ]
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +185,9 @@
   },
   "active": "26f56688855b1a1f",
   "lastOpenFiles": [
+    "HCIA/0-目录-网络.md",
+    "HCIA/1-OSI 七层.md",
+    "相关实验/华三Lab.md",
     "相关实验/DICM/Pasted image 20260324205830.png",
     "相关实验/DICM/Pasted image 20260324205802.png",
     "相关实验/DICM/Pasted image 20260324205722.png",
@@ -193,7 +195,6 @@
     "相关实验/DICM/Pasted image 20260324193153.png",
     "相关实验/DICM",
     "HCIP/8-BGP.md",
-    "相关实验/华三Lab.md",
     "相关实验",
     "HCIP/HCIP.zip",
     "HCIP/4-MSTP.md",
@@ -203,7 +204,6 @@
     "HCIP/DICM/Pasted image 20260201192905.png",
     "HCIP/DICM/Pasted image 20260201180836.png",
     "HCIP/DICM/Pasted image 20260201175244.png",
-    "HCIP/DICM/Pasted image 20260121183114.png",
     "测试文件.md",
     "HCIA/HCIA综合实验.md",
     "HCIA.zip",
@@ -225,7 +225,6 @@
     "HCIA/5-链路聚合.md",
     "HCIA/4-VLAN间的通信.md",
     "HCIA/3-生成树STP.md",
-    "HCIA/2.1-VLAN通信.md",
     "DICM",
     "网络.zip",
     "HCIA/DICM",
